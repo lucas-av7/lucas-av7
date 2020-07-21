@@ -1,16 +1,21 @@
-### Hi there 👋
+### Olá! Bem-vindo ao meu perfil 👋
 
-<!--
-**lucas-av7/lucas-av7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+👨‍💻 Meu nome é Lucas, e sou um Desenvolvedor Web
+🔭 #OpenToWork
 
-Here are some ideas to get you started:
+🏆 Meu portfólio: [Ver online](https://lucas-av7.github.io/)
+👔 Meu LinkedIn: [Acessar perfil](https://www.linkedin.com/in/lucas-av7)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📚 Curso Análise e Desenvolvimento de Sistemas
+🌱 Atualmente estou estudando:
+- React.js
+- Vue.js
+- Node.js
+
+💾 Tenho conhecimento e experiência em:
+- HTML
+- CSS
+- JavaScript
+- API Rest
+
+🇧🇷 Manaus, Amazonas - Brasil
