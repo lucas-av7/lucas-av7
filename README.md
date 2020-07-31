@@ -2,13 +2,13 @@
 
 👨‍💻 Meu nome é Lucas, e sou um Desenvolvedor Web
 
-🔭 #OpenToWork
+#️⃣ #OpenToWork
 
 🏆 Meu portfólio: [Ver online](https://lucas-av7.github.io/)
 
 👔 Meu LinkedIn: [Acessar perfil](https://www.linkedin.com/in/lucas-av7)
 
-📚 Curso Análise e Desenvolvimento de Sistemas
+📚 Curso Sistemas de Informação (1/8)
 
 🌱 Atualmente estou estudando:
 - React.js
