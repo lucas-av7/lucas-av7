@@ -4,7 +4,7 @@
 
 💻 Software Engineer at [Instituto Atlântico](http://www.atlantico.com.br)
 
-🏆 Portfolio: [Access site](https://lucas-av7.github.io/)
+🏆 Portfolio: [Access website](https://lucas-av7.github.io/)
 
 👔 LinkedIn: [Access profile](https://www.linkedin.com/in/lucas-av7)
 
