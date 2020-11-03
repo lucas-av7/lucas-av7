@@ -1,25 +1,26 @@
-### Olá! Bem-vindo ao meu perfil 👋
+### Hello! Welcome to my profile 👋
 
-👨‍💻 Meu nome é Lucas Vasconcelos
+👨‍ I'm Lucas Vasconcelos
 
-🏢 Desenvolvedor Front-end no [Instituto Atlântico](http://www.atlantico.com.br)
+💻 Software Engineer at Instituto Atlântico [Instituto Atlântico](http://www.atlantico.com.br)
 
-🏆 Meu portfólio: [Ver online](https://lucas-av7.github.io/)
+🏆 Portfolio: [View online](https://lucas-av7.github.io/)
 
-👔 Meu LinkedIn: [Acessar perfil](https://www.linkedin.com/in/lucas-av7)
+👔 LinkedIn: [Access profile](https://www.linkedin.com/in/lucas-av7)
 
-📚 Graduação: Sistemas de Informação (1/8)
+📚 University graduate: Information systems (2/8)
 
-🌱 Atualmente estou estudando:
+🌱 I'm currently studying:
+- Python
 - React.js
 - Ember.js
 - Node.js
 
-💾 Tenho conhecimento e experiência em:
+💾 I have knowledge and experience in:
 - Vue.js
 - HTML
 - CSS
 - JavaScript
 - API Rest
 
-🇧🇷🏖️ Eusébio, Ceará - Brasil
+🇧🇷🏖️ Eusébio, Ceará - Brazil
