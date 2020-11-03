@@ -2,7 +2,7 @@
 
 👨‍ I'm Lucas Vasconcelos
 
-💻 Software Engineer at Instituto Atlântico [Instituto Atlântico](http://www.atlantico.com.br)
+💻 Software Engineer at [Instituto Atlântico](http://www.atlantico.com.br)
 
 🏆 Portfolio: [View online](https://lucas-av7.github.io/)
 
