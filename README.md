@@ -8,19 +8,26 @@
 
 👔 LinkedIn: [Access profile](https://www.linkedin.com/in/lucas-av7)
 
-📚 University graduate: Information systems (2/8)
+📚 Bachelor's degree: Information systems (2/8)
 
 🌱 I'm currently studying:
-- Python
-- React.js
-- Ember.js
-- Node.js
+* AWS
+* Apache Airflow
 
-💾 I have knowledge and experience in:
-- Vue.js
-- HTML
-- CSS
-- JavaScript
-- API Rest
+💾 I have knowledge and experience with:
+* Languages
+    * JavaScript
+    * Python
+    * SQL
+* Frameworks
+    * Flask
+    * Node.js
+    * React.js
+    * Vue.js
+* Tools and techniques
+    * API Rest
+    * Docker
+    * PostgreSQL
+    * TDD
 
-🇧🇷🏖️ Eusébio, Ceará - Brazil
+🇧🇷🏖️ Fortaleza, Ceará - Brazil
