@@ -27,6 +27,8 @@
 * Tools and techniques
     * API Rest
     * Docker
+    * JWT
+    * MongoDB
     * PostgreSQL
     * TDD
 
