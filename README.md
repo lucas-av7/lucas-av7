@@ -8,7 +8,7 @@
 
 👔 LinkedIn: [Access profile](https://www.linkedin.com/in/lucas-av7)
 
-📚 Bachelor's degree: Information systems (2/8)
+📚 Bachelor's degree: Information systems (3/8)
 
 🌱 I'm currently studying:
 * AWS
