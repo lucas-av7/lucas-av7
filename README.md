@@ -12,11 +12,14 @@
 
 🌱 I'm currently studying:
 * AWS
-* Apache Airflow
+* Ember.js
+* StencilJS
+
 
 💾 I have knowledge and experience with:
 * Languages
     * JavaScript
+    * Typescript
     * Python
     * SQL
 * Frameworks
@@ -25,11 +28,13 @@
     * React.js
     * Vue.js
 * Tools and techniques
+    * Apache Airflow
     * API Rest
     * Docker
     * JWT
     * MongoDB
     * PostgreSQL
     * TDD
+
 
 🇧🇷🏖️ Fortaleza, Ceará - Brazil
