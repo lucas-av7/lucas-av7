@@ -18,7 +18,7 @@
 
 💾 I have knowledge and experience with:
 * Languages
-    * JavaScript
+    * Javascript
     * Typescript
     * Python
     * SQL
