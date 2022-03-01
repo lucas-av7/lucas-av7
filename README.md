@@ -13,8 +13,7 @@
 🌱 I'm currently studying:
 * AWS
 * Ember.js
-* StencilJS
-
+* Stencil.js
 
 💾 I have knowledge and experience with:
 * Languages
@@ -31,10 +30,11 @@
     * Apache Airflow
     * API Rest
     * Docker
+    * Github Action
     * JWT
     * MongoDB
     * PostgreSQL
     * TDD
-
+    * Web Components
 
 🇧🇷🏖️ Fortaleza, Ceará - Brazil
