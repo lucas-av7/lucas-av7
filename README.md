@@ -2,7 +2,7 @@
 
 👨‍ I'm Lucas Vasconcelos
 
-💻 Software Engineer at [Axcient](https://axcient.com/)
+💻 Software Engineer - Full Stack developer
 
 🏆 Portfolio: [Access website](https://lucas-av7.github.io/)
 
@@ -10,23 +10,20 @@
 
 📚 Bachelor's degree: Information systems (4/8)
 
-🌱 I'm currently studying:
-* AWS
-* Ember.js
-* Stencil.js
-
 💾 I have knowledge and experience with:
 * Languages
     * Javascript
     * Typescript
     * Python
-    * SQL
 * Frameworks
-    * Flask
     * Node.js
     * React.js
     * Vue.js
+    * Stencil.js
+    * Ember.js
+    * Flask
 * Tools and techniques
+    * AWS 
     * Apache Airflow
     * API Rest
     * Docker
@@ -34,7 +31,7 @@
     * JWT
     * MongoDB
     * PostgreSQL
-    * TDD
+    * TDD (Jest, Mocha, Chai, PyTest)
     * Web Components
 
 🇧🇷🏖️ Fortaleza, Ceará - Brazil
