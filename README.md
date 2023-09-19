@@ -8,7 +8,7 @@
 
 👔 LinkedIn: [Access profile](https://www.linkedin.com/in/lucas-av7)
 
-📚 Bachelor's degree: Information systems (4/8)
+📚 Bachelor's degree: Information systems (5/8)
 
 💾 I have knowledge and experience with:
 * Languages
@@ -17,21 +17,22 @@
     * Python
 * Frameworks
     * Node.js
+    * Next.js
     * React.js
     * Vue.js
     * Stencil.js
     * Ember.js
     * Flask
+    * FastAPI
 * Tools and techniques
     * AWS 
-    * Apache Airflow
     * API Rest
     * Docker
     * Github Action
     * JWT
     * MongoDB
     * PostgreSQL
-    * TDD (Jest, Mocha, Chai, PyTest)
+    * TDD (Jest, Vitest, PyTest)
     * Web Components
 
-🇧🇷🏖️ Fortaleza, Ceará - Brazil
+🇧🇷 Brazil
